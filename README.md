@@ -16,6 +16,6 @@
 4. 使用truelicense开源证书管理引擎，生成授权证书
 5. 对license业务代码混淆加密，防止反编译跳过、替换验证过程
 ## 3. 授权方案
-![avatar](https://github.com/liuqihaodev/photo-gallery/raw/master/license-picture/license-plan.jpg)
+![avatar](./resource/image/license-plan.jpg)
 ## 4. 流程图
-![avatar](https://github.com/liuqihaodev/photo-gallery/raw/master/license-picture/license-flow.jpg)
+![avatar](./resource/image/license-flow.jpg)
